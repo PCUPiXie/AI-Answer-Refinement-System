@@ -1,0 +1,1 @@
+pip install streamlit google-generativeai groq openai python-dotenv
